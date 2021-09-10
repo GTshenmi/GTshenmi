@@ -2,10 +2,10 @@
      
   
 <a href="https://github.com/GTshenmi/github-readme-stats">
-  <img height = '200' width = '50%' src="https://github-readme-stats.vercel.app/api?username=GTshenmi" />
+  <img height = '200' src="https://github-readme-stats.vercel.app/api?username=GTshenmi" />
                                                                                                                               
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height = '200' width = '30%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTshenmi" />
+  <img height = '200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTshenmi" />
 </a>
   
 </div>
