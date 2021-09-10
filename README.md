@@ -1,10 +1,9 @@
 
 <div claas = "imgblocks" href="https://github.com/GTshenmi/github-readme-stats">
      
-  <img height=100px margin-left=10px src="https://github-readme-stats.vercel.app/api?username=GTshenmi" />          
+  <img height=200px margin-left=10px src="https://github-readme-stats.vercel.app/api?username=GTshenmi" />          
   
-  
-  <img height=100px margin-right=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTshenmi" />
+  <img height=200px margin-right=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTshenmi" />
      
 </div>
 
